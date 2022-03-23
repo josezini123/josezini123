@@ -1,0 +1,4 @@
+- 👋 ola eu sou **José**
+- 👀 eu estou interesado em aprender codigos
+- 🌱 eu estou aprendendo GML C++ e Java
+-   meu email de contato é [este](jose.zini@escola.pr.gov.br)
